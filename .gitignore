@@ -3,3 +3,7 @@
 /build*
 /inst*
 
+# HH
+_rez_build
+.vscode
+.idea
